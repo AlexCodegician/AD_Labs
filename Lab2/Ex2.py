@@ -46,5 +46,3 @@ plt.show()
 
 ##Cu cat crestem nr. de vecini, preciziile devin mai mari deoarece atunci cand avem
 ##un nr mai mic de vecini, modelul e mai sensibil la zgomot si la mici variatii
-
-
